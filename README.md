@@ -4,8 +4,8 @@ I'm Hsiao-Fang.Currently focusing on Android training game development, I bring 
 
 - 🔭 I worked as an intern for 2 months in the R&D center at Contrel Technology.
 - 🌱 I am currently a graduate student in the Department of Mechanical Engineering at National Cheng Kung University.[VR Lab](https://vr.me.ncku.edu.tw/lab2014/cht)
-- 💻 I sometimes take notes of programing learining in [my HackMD notebooks](https://hackmd.io/@Trista1002)
-- 💬 Ask me about how to stimulate imagination
+- 💻 I sometimes take notes of programing learining in [my HackMD notebooks](https://hackmd.io/@Trista1002).
+- 💬 Ask me about how to stimulate imagination.
 - 📫 How to reach me: **wind100209@gmail.com**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I enjoy workout, baking, and reading books.
