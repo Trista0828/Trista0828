@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-I'm Hsiao-Fang.Currently focusing on Android training game development, I bring strong interdisciplinary skills, a passion for learning, and a positive attitude. Detail-oriented and responsible, I excel in problem-solving and team coordination.
-
 - 🔭 I worked as an intern for 2 months in the R&D center at Contrel Technology.
 - 🌱 I am currently a graduate student in the Department of Mechanical Engineering at National Cheng Kung University.
 - 💬 Ask me about how to stimulate imagination.
-- 📫 How to reach me: **wind100209@gmail.com**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I enjoy workout, baking, and reading books.
 
